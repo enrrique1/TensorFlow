@@ -12,3 +12,11 @@ Description: Here, I present a simple and easy way to create a typlical MNIST cl
 # Script: APP_case
 
 Description: Here, I present a simple and easy way to create a machine learning algorithm, which is able to predict if a customer will buy again.
+
+# Script: TF_admission
+
+Description:Here, I present a simple and easy way to create a linear regression with TensorFlow. In this case the data based on file Admission_Predict.csv. The targets are represented by the chance of admitance and the inputs are the CGPA (Cumulative Grade Point Average).
+
+# Script: TF_polynomial_regression
+
+Description:Here, Here, I present a simple and easy way to create a polynomial linear regression with TensorFlow. In this case the data based on file Polynomial_test.csv. Dataset was created to emulate Y=ax³+bx²+c*x+d
