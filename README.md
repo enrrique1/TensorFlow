@@ -33,3 +33,7 @@ Description: Here, I present a simple and easy way to create a polynomial linear
 
 Description: Here, I present a simple and easy way to create a machine learning algorithm (ANN), which is able to predict wine quality. There are 11 inputs and one target. It is devided in two parts. In part I, only the prepicessing data is presented. The Machine learnig analysis (RNN) with Tensorflow can be found in part II.
 The data set was obtained from https://www.kaggle.com/vishalyo990/prediction-of-quality-of-wine/data
+
+# Script: TF_classification_diabetes
+
+Description: Here, I present a simple and easy way to create a classification with TensorFlow. In this case the data based on file pima-indians-diabetes.csv. The targets are represented by the chance of have diabetes and the inputs are some medical parameters. Please refer to https://archive.ics.uci.edu/ml/datasets/pima+indians+diabetes for more information.
