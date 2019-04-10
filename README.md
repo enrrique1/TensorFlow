@@ -37,3 +37,7 @@ The data set was obtained from https://www.kaggle.com/vishalyo990/prediction-of-
 # Script: TF_classification_diabetes
 
 Description: Here, I present a simple and easy way to create a classification with TensorFlow. In this case the data based on file pima-indians-diabetes.csv. The targets are represented by the chance of have diabetes and the inputs are some medical parameters. Please refer to https://archive.ics.uci.edu/ml/datasets/pima+indians+diabetes for more information.
+
+# Script: TF_House_prices
+
+Description: Here, I present a simple and easy way to create a regression with TensorFlow. In this case the data based on file cal_housing_clean.csv. The targets are represented by the Median house value and the inputs are the house median age, total of rooms, total of bedrooms, population, households, median income. For more information about the data: http://www.liaad.up.pt/~ltorgo/Regression/DataSets.html.
