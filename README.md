@@ -41,3 +41,7 @@ Description: Here, I present a simple and easy way to create a classification wi
 # Script: TF_House_prices
 
 Description: Here, I present a simple and easy way to create a regression with TensorFlow. In this case the data based on file cal_housing_clean.csv. The targets are represented by the Median house value and the inputs are the house median age, total of rooms, total of bedrooms, population, households, median income. For more information about the data: http://www.liaad.up.pt/~ltorgo/Regression/DataSets.html.
+
+# Script: TF_classification_California_census
+
+Description: Here, I present a simple and easy way to create a classification with TensorFlow. In this case the data based on file census_data.csv. The targets are represented by incomes (>50k𝑜𝑟<50𝑘) and the inputs are some live styles and live indicators.
